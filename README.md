@@ -12,8 +12,8 @@
 ---
 
 ### 🌸 About Me
-- 💻 I love **coding 
-- 🍓 Currently learning **C 
+- 💻 I love Coding 
+- 🍓 Currently learning C 
 - 🌱 Always exploring new technologies!
 
 ---

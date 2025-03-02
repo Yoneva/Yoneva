@@ -5,8 +5,7 @@
 <h1 align="center"> 🌷 Hey there! I'm Amal 💖 </h1>
 
 <p align="center">
-  🎀 20 y/o | Student at 1337 | Coffee Lover ☕  
-  ✨ Passionate about coding
+  🎀 20 y/o | Student at 1337 
 </p>
 
 ---

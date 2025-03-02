@@ -30,8 +30,8 @@
 ---
 
 ### 🌸 Connect With Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/Evenne__?t=psmZ0UZovkLbyo9KRgPvog&s=09))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/evenne__?igsh=MTUybzVjc20wZGs2eg==))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/Evenne__?t=psmZ0UZovkLbyo9KRgPvog&s=09))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/evenne__?igsh=MTUybzVjc20wZGs2eg==))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 
 ---

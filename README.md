@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Amal  
+#  Hey, I'm Amal  
 
 🎓 **IT student at 42 Network**  
 💻 Passionate about **low-level programming**, **cybersecurity**, and **system design**  
@@ -8,10 +8,10 @@
 ---
 
 ### 🧠 About Me
-- 🧩 I enjoy solving complex problems and understanding how things work under the hood.  
-- 🔒 Currently diving deeper into **cybersecurity** — from system vulnerabilities to ethical hacking.  
-- 🧑‍💻 Building projects that help me grow as a developer and a security enthusiast.  
-- 🎯 My goal: to master **systems programming** and contribute to **open-source security tools**.  
+-  I enjoy solving complex problems and understanding how things work under the hood.  
+-  Currently diving deeper into **cybersecurity** — from system vulnerabilities to ethical hacking.  
+-  Building projects that help me grow as a developer and a security enthusiast.  
+-  My goal: to master **systems programming** and contribute to **open-source security tools**.  
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 📈 GitHub Stats  
 
-<p align="center">
-  <img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoneva&show_icons=true) />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoneva&show_icons=true&theme=tokyonight" alt="Amal's GitHub stats" />
 </p>
 
 ### 📈 42 Stats 

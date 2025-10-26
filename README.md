@@ -28,16 +28,21 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoneva&show_icons=true&theme=tokyonight" alt="Amal's GitHub stats" />
-</p>
-
-### 📈 42 Stats 
+### 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/amsbai" alt="amsbai's 42 stats" /></a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yoneva&show_icons=true&theme=tokyonight" alt="Amal's GitHub stats" />
+      </td>
+      <td align="center">
+        <a href="https://github.com/oakoudad/badge42">
+          <img src="https://badge.mediaplus.ma/greenbinary/amsbai" alt="amsbai's 42 stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

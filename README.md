@@ -34,8 +34,10 @@
   <img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoneva&show_icons=true) />
 </p>
 
+### 📈 42 Stats 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/amsbai" alt="amsbai's 42 stats" /></a>
 </p>
 
 ---
@@ -68,4 +70,3 @@
 > 💬 Feel free to explore my repos and drop a ⭐ if you like something!
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/amsbai" alt="amsbai's 42 stats" /></a>

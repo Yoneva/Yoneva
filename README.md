@@ -1,13 +1,13 @@
 #  Hey, I'm Amal  
 
-🎓 **IT student at 42 Network**  
-💻 Passionate about **low-level programming**, **cybersecurity**, and **system design**  
-⚙️ Currently coding in **C** and **C++**  
-🚀 Always learning and exploring new technologies  
+ **IT student at 42 Network**  
+ Passionate about **low-level programming**, **cybersecurity**, and **system design**  
+ Currently coding in **C** and **C++**  
+ Always learning and exploring new technologies  
 
 ---
 
-### 🧠 About Me
+###  About Me
 -  I enjoy solving complex problems and understanding how things work under the hood.  
 -  Currently diving deeper into **cybersecurity** — from system vulnerabilities to ethical hacking.  
 -  Building projects that help me grow as a developer and a security enthusiast.  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages:**  
 `C` · `C++` · `Bash`
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <p align="center">
   <table>
@@ -48,17 +48,17 @@
 ---
 
 ### 🛠️ 42 Projects
-🚧 **Currently working on:**  
-- `Cube3D` 🧊 — A raycasting 3D game inspired by Wolfenstein, built with C and MiniLibX  
-- `NetPractice` 🌐 — Network configuration exercises to understand IP addressing and routing  
+ **Currently working on:**  
+- `Cube3D`  — A raycasting 3D game inspired by Wolfenstein, built with C and MiniLibX  
+- `NetPractice`  — Network configuration exercises to understand IP addressing and routing  
 
-🧠 **Past projects:**  
-- `minishell` 🐚 — A small UNIX shell built from scratch  
-- `ft_printf` 🧵 — Custom implementation of printf in C  
+ **Past projects:**  
+- `minishell`  — A small UNIX shell built from scratch  
+- `ft_printf`  — Custom implementation of printf in C  
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amal-sbai-1ba0a3395/" target="_blank">
